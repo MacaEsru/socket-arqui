@@ -15,4 +15,5 @@ Levantar Servidor, cualquiera de estos dos comandos
 ```
 nodemon dist/
 node dist
+realizar los comandos como dicta el proyecto.
 ```
